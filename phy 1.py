@@ -1,1 +1,2 @@
-print ("Sami\nMashfi")
+x= "Sami Mashfi"
+print (x + " Is cool")
