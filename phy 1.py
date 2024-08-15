@@ -1,3 +1,3 @@
 x= "Sami Mashfi"
-print (x + " Is cool")
+print (x.lower())
 print(x.lower().islower() )
