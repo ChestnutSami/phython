@@ -1,3 +1,3 @@
 x="Sami"
-print(x.upper())
-print(x.lower())
+print(x.isupper())
+print(x.islower())
