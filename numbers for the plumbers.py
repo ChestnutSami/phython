@@ -9,6 +9,9 @@ print(max(4,6))
 print (min(4,6))
 print(round(3.7))
 from math import*
+from math import floor
+from math import ceil
+from math import sqrt
 #that line give access to some extra math function
 numb = -3
 print(floor(4.7))
