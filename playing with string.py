@@ -1,0 +1,11 @@
+var= "Sami Mashfi"
+print (var)
+print (var + " is cool")
+print (var.lower())
+print (var.upper())
+print (var.isupper())
+print (var.upper().isupper())
+print (len(var))
+print ( var[0]) 
+print(var.index("S"))
+print(var.replace("Sami","Ajmain"))
