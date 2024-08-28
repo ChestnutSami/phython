@@ -1,0 +1,6 @@
+color= input("Enter a color")
+plural=input("Enter a plural noun")
+Adult_star= input("Enter a adult star")
+print("Roses are " + color)
+print(plural + " are blue")
+print("I love "+ Adult_star + " <3")
